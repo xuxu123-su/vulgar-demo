@@ -7,7 +7,6 @@
     name: "VisitDay",
     data() {
       return {
-        
       }
     },
 
